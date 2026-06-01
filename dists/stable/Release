@@ -1,0 +1,25 @@
+Origin: https://kidzz1965.github.io/droidian-packages
+Label: Droidian PKG
+Suite: stable
+Codename: stable
+Version: 1.0
+Architectures: arm64
+Components: main
+Description: Packages 
+Date: Mon, 01 Jun 2026 14:30:03 +0000
+MD5Sum:
+ 4d608b6655b6ebe89d5194b5aa649b0c              217 Release
+ 0890f9ba85f354b63211230b7f19feb7             6718 main/binary-arm64/Packages
+ bb70aaf571d55f5a50c48b723420dabd             1659 main/binary-arm64/Packages.gz
+SHA1:
+ 0889f01c275f2931fe4c586f8bca9803310cfd5d              217 Release
+ 0cf7d6532761175acb7ab1bdd589d797e9045a67             6718 main/binary-arm64/Packages
+ 67e05ef8938032cd3601c0d2bfef634dbe082adb             1659 main/binary-arm64/Packages.gz
+SHA256:
+ cf9dc5d95bdac04d72429713cd1548bd1fd8d7efd1c932389d129c14873214cf              217 Release
+ 85d3ebf436175ddcddc4d037d16e9b02ab87fdbc187bf4fc50a26ca1fd183aba             6718 main/binary-arm64/Packages
+ 1a52326000fc73523a0264abf5df4aaee18406670122a82587fd041c600ca5ed             1659 main/binary-arm64/Packages.gz
+SHA512:
+ c1b9c6cc8d5e8a7f7577eb3a16a50e8012848475a8ba3e444767e25a422de54e503a3579dbd42795ea8e05e672a35cc874fb8806add47fdaa36bd57352217ba3              217 Release
+ 6eaf1be6f9f907be3da7d031171f37e98cf101e1c3bc3b00e32081ecc3d4e2da69e39042eccb3a122ba6feddd8604914e353d7663bc8d37c2af0f8952a94aa94             6718 main/binary-arm64/Packages
+ 30021478ec72171681d2a845b1d9b08c9eff84b2a5bfd8bdb84ab6641b255d1d959ae1f7ad05ef2f42a0c04415603d573d9bd0f3eb97e492906e7c55822a8db9             1659 main/binary-arm64/Packages.gz
